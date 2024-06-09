@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaVukovic</string>
+    <string name="phone_activity_failed_message">Aktivnost trenutno ne može biti pokrenuta</string>
+    <string name="phone_access_denied_message">Nemamo potrebna dopuštenja</string>
+    <string name="dialog_title">Podijeli sadržaj</string>
+    <string name="dialog_message">Želite li podijeliti ovaj sadržaj?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="broadcast_message">Sadržaj je uspješno podijeljen.</string>
+    <string name="car_image_description">Slika auta</string>
+    <string name="call_car_dealership">Nazovi auto salon</string>
+    <string name="share">Podijeli</string>
+    <string name="car_description_0">Ford Focus, kompaktni automobil proizveden od strane Forda, poznat je po svojoj efikasnosti u potrošnji goriva i elegantnom dizajnu. Popularan je izbor među stanovnicima gradova.</string>
+    <string name="car_description_1">Opel Corsa, supermini automobil koji proizvodi Opel, pouzdana je i pristupačna opcija za one s ograničenim budžetom.</string>
+    <string name="car_description_2">Toyota Corolla, kompaktni automobil koji proizvodi Toyota, jedan je od najprodavanijih automobila na svijetu, poznat po svojoj izdržljivosti i pouzdanosti.</string>
+    <string name="car_description_3">Honda Civic, kompaktni automobil koji proizvodi Honda, svestran je automobil s reputacijom da je zabavan za vožnju i ima izvrsnu ekonomičnost potrošnje goriva.</string>
+    <string name="car_description_4">Hyundai Elantra, kompaktni automobil koji proizvodi Hyundai, nudi glatku vožnju i prostran, dobro opremljen interijer.</string>
+    <string name="car_description_5">Subaru Impreza, kompaktni automobil koji proizvodi Subaru, ističe se svojim standardnim pogonom na sve kotače, rijetkost u klasi kompaktnih automobila.</string>
+    <string name="car_description_6">Volkswagen Golf, kompaktni automobil koji proizvodi Volkswagen, kombinira udobnu vožnju s visokokvalitetnim, prostranim interijerom.</string>
+    <string name="car_description_7">BMW serija 3, kompaktni izvršni automobil koji proizvodi BMW, nudi glatku i snažnu vožnju, što ga čini omiljenim među ljubiteljima automobila.</string>
+    <string name="car_description_8">Audi A4, kompaktni izvršni automobil koji proizvodi Audi, luksuzni je automobil s jakim motorom i sofisticiranim, udobnim interijerom.</string>
+    <string name="car_model_0">Ford Focus</string>
+    <string name="car_model_7">BMW serije 3</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FragmentiVukovic</string>
+    <string name="phone_activity_failed_message">Activity could not be run at the moment</string>
+    <string name="phone_access_denied_message">No permission given</string>
+    <string name="dialog_title">Share content</string>
+    <string name="dialog_message">Do you want to share this content?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="broadcast_message">Content is successfully shared.</string>
+    <string name="car_image_description">Car image</string>
+    <string name="call_car_dealership">Call car dealership</string>
+    <string name="share">Share</string>
+    <string name="car_description_0">The Ford Focus, a compact car produced by Ford, is known for its fuel efficiency and sleek design. It is a popular choice among city dwellers.</string>
+    <string name="car_description_1">The Opel Corsa, a supermini car engineered and produced by Opel, is a reliable and affordable option for those on a budget.</string>
+    <string name="car_description_2">The Toyota Corolla, a compact car manufactured by Toyota, is one of the best-selling cars in the world, known for its durability and reliability.</string>
+    <string name="car_description_3">The Honda Civic, a compact car manufactured by Honda, is a versatile car with a reputation for being fun to drive and having excellent fuel economy.</string>
+    <string name="car_description_4">The Hyundai Elantra, a compact car produced by Hyundai, offers a smooth ride and a spacious, well-equipped interior.</string>
+    <string name="car_description_5">The Subaru Impreza, a compact car manufactured by Subaru, stands out with its standard all-wheel drive, a rarity in the compact car class.</string>
+    <string name="car_description_6">The Volkswagen Golf, a compact car produced by Volkswagen, combines a comfortable ride with a high-quality, roomy interior.</string>
+    <string name="car_description_7">The BMW 3 Series, a compact executive car produced by BMW, offers a smooth and powerful drive, making it a favorite among car enthusiasts.</string>
+    <string name="car_description_8">The Audi A4, a compact executive car produced by Audi, is a luxury car with a strong engine and an upscale, comfortable interior.</string>
+    <string name="car_model_0">Ford Focus</string>
+    <string name="car_model_1" translatable="false">Opel Corsa</string>
+    <string name="car_model_2" translatable="false">Toyota Corolla</string>
+    <string name="car_model_3" translatable="false">Honda Civic</string>
+    <string name="car_model_4" translatable="false">Hyundai Elantra</string>
+    <string name="car_model_5" translatable="false">Subaru Impreza</string>
+    <string name="car_model_6" translatable="false">Volkswagen Golf</string>
+    <string name="car_model_7">BMW 3 Series</string>
+    <string name="car_model_8" translatable="false">Audi A4</string>
+    <string name="car_release_year_0" translatable="false">2005</string>
+    <string name="car_release_year_1" translatable="false">2007</string>
+    <string name="car_release_year_2" translatable="false">2010</string>
+    <string name="car_release_year_3" translatable="false">2012</string>
+    <string name="car_release_year_4" translatable="false">2015</string>
+    <string name="car_release_year_5" translatable="false">2003</string>
+    <string name="car_release_year_6" translatable="false">2019</string>
+    <string name="car_release_year_7" translatable="false">2020</string>
+    <string name="car_release_year_8" translatable="false">2021</string>
+</resources>

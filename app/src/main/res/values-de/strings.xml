@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaVukovic</string>
+    <string name="phone_activity_failed_message">Aktivität konnte momentan nicht ausgeführt werden</string>
+    <string name="phone_access_denied_message">Keine Berechtigung gegeben</string>
+    <string name="dialog_title">Inhalt teilen</string>
+    <string name="dialog_message">Möchten Sie diesen Inhalt teilen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="broadcast_message">Inhalt wird erfolgreich geteilt.</string>
+    <string name="car_image_description">Auto Bild</string>
+    <string name="call_car_dealership">Autohaus anrufen</string>
+    <string name="share">Teilen</string>
+    <string name="car_description_0">Der Ford Fokus, ein Kompaktwagen von Ford, ist bekannt für seine Kraftstoffeffizienz und sein schlankes Design. Er ist eine beliebte Wahl unter Stadtbewohnern.</string>
+    <string name="car_description_1">Der Opel Corsa, ein Kleinwagen von Opel, ist eine zuverlässige und erschwingliche Option für diejenigen mit einem Budget.</string>
+    <string name="car_description_2">Der Toyota Corolla, ein Kompaktwagen von Toyota, ist eines der meistverkauften Autos der Welt, bekannt für seine Langlebigkeit und Zuverlässigkeit.</string>
+    <string name="car_description_3">Der Honda Civic, ein Kompaktwagen von Honda, ist ein vielseitiges Auto mit dem Ruf, Spaß zu fahren und eine ausgezeichnete Kraftstoffeffizienz zu haben.</string>
+    <string name="car_description_4">Der Hyundai Elantra, ein Kompaktwagen von Hyundai, bietet eine sanfte Fahrt und ein geräumiges, gut ausgestattetes Interieur.</string>
+    <string name="car_description_5">Der Subaru Impreza, ein Kompaktwagen von Subaru, sticht durch seinen serienmäßigen Allradantrieb hervor, eine Seltenheit in der Kompaktwagenklasse.</string>
+    <string name="car_description_6">Der Volkswagen Golf, ein Kompaktwagen von Volkswagen, kombiniert eine komfortable Fahrt mit einem hochwertigen, geräumigen Interieur.</string>
+    <string name="car_description_7">Die BMW 3er Reihe, eine kompakte Limousine von BMW, bietet eine sanfte und kraftvolle Fahrt und ist daher bei Autofans beliebt.</string>
+    <string name="car_description_8">Der Audi A4, eine kompakte Limousine von Audi, ist ein Luxusauto mit einem starken Motor und einem gehobenen, komfortablen Interieur.</string>
+    <string name="car_model_0">Ford Fokus</string>
+    <string name="car_model_7">BMW 3er Reihe</string>
+</resources>

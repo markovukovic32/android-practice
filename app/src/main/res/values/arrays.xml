@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_descriptions">
+        <item>@string/car_description_0</item>
+        <item>@string/car_description_1</item>
+        <item>@string/car_description_2</item>
+        <item>@string/car_description_3</item>
+        <item>@string/car_description_4</item>
+        <item>@string/car_description_5</item>
+        <item>@string/car_description_6</item>
+        <item>@string/car_description_7</item>
+        <item>@string/car_description_8</item>
+    </string-array>
+    <string-array name="car_models">
+        <item>@string/car_model_0</item>
+        <item>@string/car_model_1</item>
+        <item>@string/car_model_2</item>
+        <item>@string/car_model_3</item>
+        <item>@string/car_model_4</item>
+        <item>@string/car_model_5</item>
+        <item>@string/car_model_6</item>
+        <item>@string/car_model_7</item>
+        <item>@string/car_model_8</item>
+    </string-array>
+    <string-array name="car_release_years">
+        <item>@string/car_release_year_0</item>
+        <item>@string/car_release_year_1</item>
+        <item>@string/car_release_year_2</item>
+        <item>@string/car_release_year_3</item>
+        <item>@string/car_release_year_4</item>
+        <item>@string/car_release_year_5</item>
+        <item>@string/car_release_year_6</item>
+        <item>@string/car_release_year_7</item>
+        <item>@string/car_release_year_8</item>
+    </string-array>
+</resources>

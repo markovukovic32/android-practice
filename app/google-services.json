@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968670102490",
+    "project_id": "androidlabos3-60e4d",
+    "storage_bucket": "androidlabos3-60e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968670102490:android:0721552c3a069f672736e3",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.fragmentivukovic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZcWSTTvHlTMOqSpFnigqkSRFU8sk_ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
